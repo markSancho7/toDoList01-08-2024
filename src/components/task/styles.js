@@ -5,7 +5,7 @@ const StyledTaskContainer = styled.div`
 	height: 50px;
 	display: flex;
 	flex-direction: row;
-	border: 3px solid black;
+	border: 2px solid whitesmoke;
 	align-items: center;
 	justify-content: space-between;
 	padding: 10px;
